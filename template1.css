@@ -103,7 +103,7 @@
        }
 
        .box-3-sub1{
-        margin-left: 294px;
+        margin-left: 300px;
         width: 300px;
         padding-top: 17px;
        }
@@ -114,7 +114,7 @@
        }
 
        .box-3-sub2{
-        margin-left: 255px;
+        margin-left: 266px;
         width: 70%;
         display: flex;
         flex-direction: row;
@@ -183,7 +183,7 @@
           text-align: left;
           margin-top: 40px;
           width: 60%;
-          margin-right: 100px;
+          margin-right: 206px;
        }
 
        .box-4-btn{
@@ -197,7 +197,7 @@
        .box-4-sub3{
           display: flex;
           margin-left: 300px;
-          width: 60%;
+          width: 48%;
           height: 100px;
           background-color: rgb(58, 169, 210);
           border-radius: 15px;
