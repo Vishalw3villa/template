@@ -149,25 +149,21 @@
 
       
       
-
+         
        .subbox{
         border: 1px solid black;
         border-radius: 8px;
        }
-
+       
        .box-3{
-            
-            height: 375px;
              display: flex;
              justify-content: center;
              flex-direction: column;
-       }
-
-
-
-
+            }
+       
+       
        .box-3 p{
-         margin: auto;
+          margin: auto;
             width: 100%;
             padding: 50px 0;
          font-size: 14px;
@@ -213,8 +209,8 @@
 
        .box-3-sub2-sub1{
         display: flex;
-        height: 270px;
         width: 60%;
+        align-items: center;
        }
 
        .box-3-sub2-sub1-sub1{
@@ -238,14 +234,18 @@
        }
 
        .box-3-sub2-sub2{
-        height: 200px;
+        width: 218px;
+       }
+
+       .box-3-sub2-sub{
+         height: 180px;
+         padding: 5px;
        }
 
        .box-3-sub2-sub2-img{
          margin-bottom: 5px;
-         width: 218px;
-         height: 159px;
-         
+         width: 100%;
+         height: 100%;
        } 
 
        .box-4{
