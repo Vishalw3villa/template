@@ -27,15 +27,16 @@
 
 
     .description1 h1 {
-      width: 300px;
-    line-height: 51px;
-    font-size: 34px;
+      width: 50%;
+      line-height: 65px;
+      font-size: 51px;
     }
    
      .description1 p{
-      padding-top: 13px;
-      font-size: 18px;
-      width: 337px;
+      padding-top: 28px;
+      font-size: 23px;
+      width: 36%;
+      padding-bottom: 15px;
      }
     
 
@@ -85,6 +86,10 @@
          margin: auto;
          width: 100%;
          padding: 50px 0;
+         }
+
+         .icon2{
+          font-size: 40px;
          }
 
          .box-2 p{
@@ -437,6 +442,10 @@
           width: 80%;
           margin: auto;
         }
+
+        .icon2{
+          font-size: 30px;
+         }
 
         .box2-sub1{  
           width: 27%;
@@ -820,4 +829,164 @@
           font-size: 15px;
       }
 
+    }
+
+
+    @media screen and (max-width:550px) {
+          .description1 h1 {
+            width: 208px;
+            line-height: 26px;
+            font-size: 17px;
+        }
+
+          .description1 p {
+            padding-top: 10px;
+            font-size: 8px;
+            width: 149px;
+        }
+
+            .box-1 {
+              height: 250px;
+          }
+
+          .box-1-btn {
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            margin-top: 5px;
+        }
+
+          .box2-sub1 h2 {
+            font-weight: 500;
+            line-height: 11px;
+            font-size: 8px;
+            color: rgb(76, 76, 76);
+        }
+
+        .icon2 {
+          font-size: 15px;
+      }
+
+          .box-2 h3 {
+            font-weight: 500;
+            line-height: 10px;
+            margin-top: 7px;
+            font-size: 9px;
+        }
+
+          .box-2 p {
+            font-size: 5px;
+            margin-top: 6px;
+            padding-bottom: 0px;
+            line-height: 8px;
+            font-weight: 500;
+        }
+
+
+        .box2-sub1 {
+          width: 27%;
+          height: 100px;
+          border-radius: 10px;
+          padding-top: 10px;
+          padding-right: 5px;
+      }
+
+
+      .box2-sub2 {
+        width: 27%;
+        background-color: #f0bc2c;
+        height: 100px;
+        border-radius: 10px;
+        padding-top: 10px;
+        padding-right: 5px;
+        padding-left: 15px;
+    }
+
+
+        .box2-sub3 {
+          width: 27%;
+          background-color: #f0bc2c;
+          height: 100px;
+          border-radius: 10px;
+          padding-top: 10px;
+          padding-right: 5px;
+          padding-left: 15px;
+      }
+    
+        .box-3 h2 {
+          line-height: 14px;
+          font-size: 8px;
+      }
+       
+
+          .box-3 p {
+            font-size: 5px;
+            padding-top: 5px;
+            padding-bottom: 10px;
+            line-height: 8px;
+        }
+
+
+        .box-3-sub2-sub {
+          height: 85px;
+          /* padding-top: 2px;
+          padding-right: 0px;
+          padding-bottom: 2px; */
+      }
+
+        .box-3-btn {
+          padding-left: 6px;
+          padding-right: 6px;
+          padding-top: 2px;
+          padding-bottom: 2px;
+          font-size: 8px;
+      }
+
+          .box-3-sub2-sub1-sub1 {
+            width: 150%;
+            border-radius: 2px;
+            height: 136px;
+        }
+
+            .box-3 h4 {
+              font-weight: 500;
+              line-height: 15px;
+              font-size: 10px;
+          }
+
+
+          .box-4 h2 {
+            font-weight: 500;
+            line-height: 14px;
+            font-size: 8px;
+            
+        }
+
+        .box-4 p {
+          font-size: 6px;
+          padding-top: 20px;
+          padding-bottom: 10px;
+          line-height: 9px;
+        }
+
+          .box-4-sub1 {
+            height: 160px;
+        }
+
+
+        .box-4-btn {
+          margin-top: 0px;
+          background-color: black;
+          border: 1px solid black;
+          border-radius: 12px;
+          color: white;
+          padding-top: 7px;
+          padding-bottom: 7px;
+          padding-left: 10px;
+          padding-right: 10px;
+          font-size: 7px;
+      }
+
+      
     }
