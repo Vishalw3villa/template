@@ -1051,18 +1051,23 @@
           font-size: 8px;
       }
 
+
+      .box-2{
+        padding: 25px 0;
+      }
+
         .box2-sub1 h2 {
           /* font-weight: 500; */
-          line-height: 8px;
-          font-size: 4px;
+          line-height: 10px;
+          font-size: 7px;
           padding-top: 7px;
           /* color: rgb(76, 76, 76); */
       }
 
 
         .box-2 p {
-          font-size: 3px;
-          margin-top: 6px;
+          font-size: 4px;
+          margin-top: 5px;
           padding-bottom: 0px;
           line-height: 5px;
           font-weight: 500;
@@ -1074,33 +1079,33 @@
 
         .box-2 h3 {
           font-weight: 500;
-          line-height: 7px;
+          line-height: 9px;
           margin-top: 2px;
-          font-size: 6px;
+          font-size: 7px;
       }
 
           .box2-sub1 {
-            width: 27%;
+            width: 28%;
             /* background-color: #f0bc2c; */
-            height: 65px;
+            height: 68px;
             border-radius: 6px;
             padding-top: 3px;
             padding-right: 2px;
             padding-left: 5px;
         }
           .box2-sub2 {
-            width: 27%;
+            width: 28%;
             background-color: #f0bc2c;
-            height: 65px;
+            height: 68px;
             border-radius: 6px;
             padding-top: 3px;
             padding-right: 2px;
             padding-left: 5px;
         }
           .box2-sub3 {
-            width: 27%;
+            width: 28%;
             background-color: #f0bc2c;
-            height: 65px;
+            height: 68px;
             border-radius: 6px;
             padding-top: 3px;
             padding-right: 2px;
@@ -1118,11 +1123,11 @@
 
             .box-3 h2 {
               line-height: 10px;
-              font-size: 5px;
+              font-size: 6px;
           }
 
             .box-3 p {
-              font-size: 3px;
+              font-size: 4px;
               padding-top: 5px;
               padding-bottom: 5px;
               line-height: 5px;
@@ -1134,13 +1139,18 @@
               font-size: 3px;
           }
 
+
+            .box-3-sub2-sub2 {
+              width: 80%;
+          }
+
             .box-3-sub2-sub {
               height: 70px;
           }
 
             .box-3 h4 {
               line-height: 10px;
-              font-size: 5px;
+              font-size: 7px;
           }
 
 
@@ -1152,9 +1162,14 @@
         
 
             .box-3-sub2-sub1-sub1 {
-              width: 150%;
+              width: 110%;
               border-radius: 2px;
               height: 95px;
+          }
+
+
+          .box-4{
+            padding: 15px 0;
           }
 
             .box-4 h2 {
@@ -1163,9 +1178,9 @@
           }
 
             .box-4 p {
-              font-size: 3px;
+              font-size: 4px;
               padding-top: 10px;
-              padding-bottom: 5px;
+              padding-bottom: 10px;
               line-height: 7px;
           }
 
@@ -1177,8 +1192,8 @@
               color: white;
               padding-top: 4px;
               padding-bottom: 4px;
-              padding-left: 5px;
-              padding-right: 5px;
+              padding-left: 15px;
+              padding-right: 15px;
               font-size: 4px;
           }
 
@@ -1242,8 +1257,8 @@
           .box-5-sub2-btn {
             margin-top: 0px;
             border-radius: 16px;
-            padding-left: 7px;
-            padding-right: 7px;
+            padding-left: 15px;
+            padding-right: 15px;
             padding-top: 5px;
             padding-bottom: 4px;
             font-size: 3px;
@@ -1255,7 +1270,7 @@
 
         .text p {
               line-height: 9px;
-              font-size: 3px;
+              font-size: 4px;
               padding-top: 10px;
           }
 
