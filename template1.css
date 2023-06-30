@@ -136,6 +136,8 @@
             padding-right: 30px;
          }
 
+         
+
          .box2-sub2{
             width: 26%;
             background-color: #f0bc2c;
@@ -1283,6 +1285,7 @@
       .box-2 {
           flex-direction: column;
           align-items: center;
+          padding: 20px 0;
       }
 
       .container3{
@@ -1317,7 +1320,7 @@
       .box2-sub1 {
           width: 100%;
           /* background-color: #f0bc2c; */
-          height: 25vh;
+          height: 20vh;
           border-radius: 10px;
           padding: 0px;
           margin: 10px;
@@ -1326,14 +1329,14 @@
 
       .box2-sub1 h2 {
           font-weight: 500;
-          line-height: 60px;
-          font-size: 50px;
+          line-height: 55px;
+          font-size: 37px;
           color: rgb(76, 76, 76);
       }
 
 
       .box2-sub2 {
-          width: 75%;
+          width: 60%;
           background-color: #f0bc2c;
           height: 25vh;
           border-radius: 10px;
@@ -1342,7 +1345,7 @@
             padding: 20px;
       }
       .box2-sub3 {
-          width: 75%;
+          width: 60%;
           background-color: #f0bc2c;
           height: 25vh;
           border-radius: 10px;
@@ -1359,14 +1362,14 @@
               font-weight: 500;
               line-height: 55px;
               margin-top: 7px;
-              font-size: 40px;
+              font-size: 35px;
       }
 
           .box-2 p {
-          font-size: 30px;
-          margin-top: 45px;
+          font-size: 29px;
+          margin-top: 15px;
           padding-bottom: 0px;
-          line-height: 40px;
+          line-height: 39px;
           font-weight: 500;
       }
 
