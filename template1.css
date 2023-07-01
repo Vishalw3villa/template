@@ -1,5 +1,5 @@
     *{
-      font-family: 'Poppins', sans-serif;
+      /* font-family: 'Poppins', sans-serif; */
       font-family: 'Roboto', sans-serif;
      margin: 0;
      padding: 0;
@@ -1198,7 +1198,7 @@
 
 
       .box2-sub2 {
-          width: 45%;
+          width: 90%;
           background-color: #f0bc2c;
           height: 30%;
           border-radius: 10px;
@@ -1207,7 +1207,7 @@
             padding: 20px;
       }
       .box2-sub3 {
-          width: 45%;
+          width: 90%;
           background-color: #f0bc2c;
           height: 30%;
           border-radius: 10px;
@@ -1572,7 +1572,7 @@
         }
 
         .box-1 {
-            height: 500px;
+            height: 390px;
             flex-direction: column-reverse;
         }
 
